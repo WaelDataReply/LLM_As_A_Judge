@@ -17,4 +17,7 @@ Prerequisites:
 		}
 	]
 }
-```   
+```
+[Results]:  
+![alt text](https://github.com/WaelDataReply/LLM_As_A_Judge/blob/main/%5BResults%5DClaudeVsGPT4_1.png)
+![alt text](https://github.com/WaelDataReply/LLM_As_A_Judge/blob/main/%5BResults%5DClaudeVsGPT4_2.png)
