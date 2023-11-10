@@ -9,7 +9,7 @@ Prerequisites:
 	"Version": "2012-10-17",
 	"Statement": [
 		{
-			"Sid": "FullAcessBedrock",
+			"Sid": "FullAccessBedrock",
 			"Effect": "Allow",
 			"Action": "bedrock:*",
 			"Resource": "*"
